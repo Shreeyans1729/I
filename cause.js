@@ -6,7 +6,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "jo plan hua tha , In bengali ota dee 🙈💗 ", 
+        text: "You are always be my cutie seniorita.🙈💗 ", 
         emoji: "😆",
         gif: "gif2.gif"
     },
@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Our inside jokes are literally the best thing ever~", 
+        text: "You're the best", 
         emoji: "🚀",
         gif: "gif2.gif"
     }
@@ -145,4 +145,5 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Create initial floating elements
+
 setInterval(createFloatingElement, 2000);
